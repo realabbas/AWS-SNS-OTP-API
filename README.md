@@ -1,6 +1,6 @@
 # AWS-SNS-SMS-OTP API in NodeJS (Express.js)
 
-![aws-sns-otp-api nodejs repo github](./aws-sns-otp-api.png)
+![aws-sns-otp-api nodejs repo github](./demo/aws-sns-otp-api.png)
 
 ### API Endpoint
 
