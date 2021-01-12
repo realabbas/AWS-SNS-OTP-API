@@ -1,5 +1,7 @@
 # AWS-SNS-SMS-OTP API in NodeJS (Express.js)
 
+[aws-sns-otp-api nodejs repo github](./aws-sns-otp-api.png)
+
 ### API Endpoint
 
 `GET Request to / route` with following paramaters in the GET Request
